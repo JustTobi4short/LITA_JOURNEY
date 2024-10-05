@@ -3,6 +3,22 @@ This repository documents my journey through data analytics as I learn and grow 
 
 ## Project Title:  Data Analysis Training: Insights with Excel, SQL, and Power BI
 
+[Project Overview](#project-overview)
+
+[Data sources](data-sources)
+
+[Tools used](tools-used)
+
+[Methodology](methodology)
+
+[Exploratory Data Analysis](exploratory-data-analysis)
+
+[Data Analysis](data-analysis)
+
+[Data visualization](data-visualization)
+
+[Learning Outcome](learning-outcome)
+ 
 ### Project Overview: 
 ---
 The purpose of this project is to apply and enhance my data analysis skills while undergoing training in data analytics. This project involves working with various tools such as Excel, SQL, and Power BI to explore, clean, and analyze data, providing valuable insights to solve real-world business problems. The project aims to demonstrate my proficiency in data manipulation, querying, and visualization, while documenting the learning process.
@@ -59,6 +75,27 @@ Wrote SQL queries to extract key metrics such as:
 
 ![Excel Functions](https://github.com/user-attachments/assets/a4d8286e-ac53-415c-a343-406d0dc38c8c)
 
+![PIVOT TABLE](https://github.com/user-attachments/assets/b18ea419-e7a4-4a61-a6ae-cd23661b2426)
 
+![SQL Class](https://github.com/user-attachments/assets/4059dfca-781c-4fb0-8a51-5c1101091912)
+
+![SQL PROJECT](https://github.com/user-attachments/assets/0bf7a02f-c823-4eb1-a272-0d2d74c35241)
+
+![Text cleaning](https://github.com/user-attachments/assets/1bf87888-63db-46ea-a511-a021fcc73c73)
+
+![PIVOT TABLE2](https://github.com/user-attachments/assets/21895fb1-5e0c-4246-96ad-75c4a4347f68)
+
+![Sales report Dashboard](https://github.com/user-attachments/assets/37334814-9dee-4848-98c9-1ea0e4cf72ce)
+
+### Learning outcome
+---
+By the completion of this training, I expect to:
+-Develop a strong understanding of data manipulation and analysis techniques
+
+-Improve my ability to interprete and communicate data-driven insights.
+
+-Gain hands on experience with industry standard data analysis tools.
+
+-Build a foundational skill set that will be useful for the real world data analysis tasks.
 
 
