@@ -54,3 +54,20 @@ Wrote SQL queries to extract key metrics such as:
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
   ```
+  ### Data visualization
+  ---
+![PIVOT TABLE](https://github.com/user-attachments/assets/e9b7c64a-68bf-44d4-b006-4d3e7a69aed4)
+  
+![Excel Functions](https://github.com/user-attachments/assets/15e2a127-d625-4a7b-82b0-379544ca12e1)
+  
+![SQL PROJECT](https://github.com/user-attachments/assets/96ac4bba-d572-4e1f-8d61-c8c56aced6be)
+
+![Sales report Dashboard](https://github.com/user-attachments/assets/a7528493-acf9-4ce5-b6de-c2225234aa2d)
+
+![Text cleaning](https://github.com/user-attachments/assets/82604a44-1112-494f-a3a3-80a486a09509)
+
+![SQL Class](https://github.com/user-attachments/assets/acd54354-30fc-4411-8e5f-e0c0e15435a4)
+
+
+
+
